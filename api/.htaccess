@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /NewsBlog/api/
+
+# Rewrite requests for articles to the handler function
+RewriteRule ^articles$ index.php?handler=handleArticles [NC,L,QSA]
+
+# Rewrite requests for comments to the handler function
+RewriteRule ^comments$ index.php?handler=handleComments [NC,L,QSA]
+
+# Rewrite requests for users to the handler function
+RewriteRule ^users$ index.php?handler=handleUsers [NC,L,QSA]
