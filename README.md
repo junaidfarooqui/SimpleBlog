@@ -53,3 +53,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Version 0.0.1
+This is first version of simple blog and it consist very basic of simple blog. There are some new big features are in progress and will be release at end of April 2023.
