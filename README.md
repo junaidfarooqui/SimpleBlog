@@ -36,6 +36,8 @@ password: 7NaaLi~qgwqWv93w
 
 In the project directory, you can run:
 
+#### `npm install` for first time only.
+
 #### `npm start`
 
 Run this command in your terminal and in your project directory and Runs the app in the development mode.\
