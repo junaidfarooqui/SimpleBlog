@@ -56,3 +56,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### Version 0.0.1
 This is first version of simple blog and it consist very basic of simple blog. There are some new big features are in progress and will be release at end of April 2023.
+
+#### Upcoming features
+* Easy Installation wizard
+* Remove duplications in code
+* Improve Front-end design
+* Page Feature
+* SEO Improvements
+* Social Media Integrations
